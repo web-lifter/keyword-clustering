@@ -2,7 +2,7 @@
 
 ## Overview
 
-The 3D Keyword Clustering script is designed to help SEO specialists, data analysts, and digital marketers optimize their keyword targeting strategies. By using machine learning algorithms and natural language processing techniques, this script clusters keywords in a 3D space based on their relevance to specific web pages and search queries.
+The 3D Keyword Clustering script is designed to help SEO specialists, data analysts, and digital marketers optimise their keyword targeting strategies. By using machine learning algorithms and natural language processing techniques, this script clusters keywords in a 3D space based on their relevance to specific web pages and search queries.
 
 ## Table of Contents
 
